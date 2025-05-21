@@ -42,6 +42,6 @@ int main() {
                 printf("Caractere desconhecido.\n");
             }
         }
-        sleep_ms(10);  // pequeno delay para evitar polling intenso
+        sleep_ms(10);  // pequeno delay para evitar polling com intensidade
     }
 }
