@@ -26,7 +26,7 @@ int main() {
             tud_cdc_write(buf, count); // Escreve os mesmos dados de volta ao host, efetivamente fazendo um eco
             tud_cdc_write_flush();
         }
-        tud_task(); // Executa tarefas USB
+        tud_task(); // Executa tarefa USB
     }
 
     return 0;

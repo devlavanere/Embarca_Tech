@@ -22,7 +22,7 @@ enum {
 
 static uint32_t blink_interval_ms = BLINK_NOT_MOUNTED;
 
-/*------------- MAIN -------------*/
+/*------------- MAIN ----------*/
 int main(void) {
   board_init();
 
