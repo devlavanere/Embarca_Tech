@@ -1,4 +1,4 @@
-# Capítulo 7: Executor Cíclico
+# Capítulo 9: Executor Cíclico
 
 Este capítulo explora uma estratégia avançada de organização de software em sistemas embarcados: o **Executor Cíclico**. Focamos na implementação de um sistema robusto e eficiente, utilizando a **BitDogLab (Raspberry Pi Pico W)** para demonstrar como garantir a periodicidade e a organização das tarefas.
 
